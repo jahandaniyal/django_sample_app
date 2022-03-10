@@ -1,0 +1,47 @@
+[
+  {
+    "model": "app.usagetypes",
+    "pk": 100,
+    "fields": {
+      "name": "electricity",
+      "unit": "kwh",
+      "factor": 1.5
+    }
+  },
+  {
+    "model": "app.usagetypes",
+    "pk": 101,
+    "fields": {
+      "name": "water",
+      "unit": "kg",
+      "factor": 26.93
+    }
+  },
+  {
+    "model": "app.usagetypes",
+    "pk": 102,
+    "fields": {
+      "name": "heating",
+      "unit": "kwh",
+      "factor": 3.892
+    }
+  },
+  {
+    "model": "app.usagetypes",
+    "pk": 103,
+    "fields": {
+      "name": "heating",
+      "unit": "l",
+      "factor": 8.57
+    }
+  },
+  {
+    "model": "app.usagetypes",
+    "pk": 104,
+    "fields": {
+      "name": "heating",
+      "unit": "m3",
+      "factor": 19.456
+    }
+  }
+]
