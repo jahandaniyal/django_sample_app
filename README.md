@@ -11,6 +11,7 @@
 - Unittest written using [pytest](https://docs.pytest.org/en/7.0.x/#)
 - Local Build System and Dockerized Container
 - Support for pagination, sorting and filter by time range
+- OpenApi Spec generated and documented in *api_doc.html*
 
 ## Pre-requisites
 - [Python 3.9+](https://docs.python.org/3.9/)
