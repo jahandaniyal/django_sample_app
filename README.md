@@ -1,4 +1,4 @@
-# Planetly Sample App
+# Django Sample App
 ## Sample application for CRUD APIs
 
 ## Features
