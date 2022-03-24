@@ -3,7 +3,7 @@
 
 ## Features
 
-[![CircleCI](https://circleci.com/gh/jahandaniyal/django_sample_app.svg?style=svg)](https://circleci.com/gh/jahandaniyal/django_sample_app)
+[![CircleCI](https://img.shields.io/circleci/build/github/jahandaniyal/django_sample_app/main?style=plastic)](https://circleci.com/gh/jahandaniyal/django_sample_app)
 
 - Django App to implement CRUD operations for  **User**, **Usage** and **UsageTypes** table
 - JWT Authentication using [Simple JWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
