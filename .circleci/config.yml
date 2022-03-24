@@ -28,3 +28,5 @@ jobs:
       - store_artifacts:
           path: test-reports/
           destination: django_sample_app
+      - store_test_results:
+          path: test-reports/
